@@ -9,3 +9,7 @@ Binary Search usage
 https://www.hackerrank.com/contests/smart-interviews/challenges/si-frequency-sort
 solved using java HashMap and custom comparator.
 
+S𝐨𝐫𝐭𝐞𝐝 𝐢𝐧𝐬𝐞𝐫𝐭 𝐩𝐨𝐬𝐢𝐭𝐢𝐨𝐧- IB
+
+https://www.interviewbit.com/problems/sorted-insert-position/
+solved using binary search(initialization and return part is tricky)
