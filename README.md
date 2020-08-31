@@ -13,3 +13,9 @@ S𝐨𝐫𝐭𝐞𝐝 𝐢𝐧𝐬𝐞𝐫𝐭 𝐩𝐨𝐬𝐢𝐭𝐢𝐨𝐧-
 
 https://www.interviewbit.com/problems/sorted-insert-position/
 solved using binary search(initialization and return part is tricky)
+
+
+𝐂𝐚𝐛𝐢𝐧𝐞𝐭 𝐏𝐚𝐫𝐭𝐢𝐭𝐢𝐨𝐧𝐢𝐧𝐠- HR
+
+https://www.hackerrank.com/contests/smart-interviews/challenges/si-cabinets-partitioning/problem
+Solved using Backtracking approach instead of Binary Search
