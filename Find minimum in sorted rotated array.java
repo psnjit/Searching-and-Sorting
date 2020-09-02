@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/submissions/ LC
+// https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/submissions/ LC (number of times a sorted array has been rotated(with slight modification)
 class Solution {
     public int findMin(int[] arr) 
     {
