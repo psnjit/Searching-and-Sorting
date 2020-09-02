@@ -19,3 +19,7 @@ solved using binary search(initialization and return part is tricky)
 
 https://www.hackerrank.com/contests/smart-interviews/challenges/si-cabinets-partitioning/problem
 Solved using Backtracking approach instead of Binary Search
+
+𝐀𝐠𝐠𝐫𝐞𝐬𝐬𝐢𝐯𝐞 𝐜𝐨𝐰𝐬 - SPOJ
+
+https://www.spoj.com/problems/AGGRCOW/  Solved uisng Binary Search. Find maximum of the minimum distance possible between 2 cows.
