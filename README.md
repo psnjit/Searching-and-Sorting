@@ -23,3 +23,7 @@ Solved using Backtracking approach instead of Binary Search
 𝐀𝐠𝐠𝐫𝐞𝐬𝐬𝐢𝐯𝐞 𝐜𝐨𝐰𝐬 - SPOJ
 
 https://www.spoj.com/problems/AGGRCOW/  Solved uisng Binary Search. Find maximum of the minimum distance possible between 2 cows.
+
+𝐌𝐞𝐝𝐢𝐚𝐧 𝐨𝐟 𝟐 𝐬𝐨𝐫𝐭𝐞𝐝 𝐬𝐚𝐦𝐞 𝐬𝐢𝐳𝐞 𝐀𝐫𝐫𝐚𝐲- GFG
+
+https://www.geeksforgeeks.org/median-of-two-sorted-arrays/    Solved NOT using BINARY SEARCH
