@@ -27,3 +27,7 @@ https://www.spoj.com/problems/AGGRCOW/  Solved uisng Binary Search. Find maximum
 𝐌𝐞𝐝𝐢𝐚𝐧 𝐨𝐟 𝟐 𝐬𝐨𝐫𝐭𝐞𝐝 𝐬𝐚𝐦𝐞 𝐬𝐢𝐳𝐞 𝐀𝐫𝐫𝐚𝐲- GFG
 
 https://www.geeksforgeeks.org/median-of-two-sorted-arrays/    Solved NOT using BINARY SEARCH
+
+𝐌𝐞𝐝𝐢𝐚𝐧 𝐨𝐟 𝟐 𝐬𝐨𝐫𝐭𝐞𝐝 𝐚𝐧𝐲 𝐬𝐢𝐳𝐞 𝐚𝐫𝐫𝐚𝐲.𝐣𝐚𝐯𝐚 - IB
+
+https://www.interviewbit.com/problems/median-of-array/ Solved using Binary Search
